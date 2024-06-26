@@ -1,0 +1,13 @@
+.restaurantImage {
+  height: 30vh;
+  object-fit: cover;
+}
+
+.distance {
+  min-width: 50px;
+  margin-right: 0.25rem;
+}
+
+.warning {
+  display: inherit;
+}
